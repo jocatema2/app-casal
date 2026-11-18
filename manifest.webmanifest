@@ -1,0 +1,11 @@
+{
+  "name": "A Dois",
+  "short_name": "A Dois",
+  "description": "Despesas, tarefas e stock da nossa casa.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f4fb",
+  "theme_color": "#f6f4fb",
+  "lang": "pt-PT",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
